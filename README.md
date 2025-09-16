@@ -214,18 +214,6 @@ python visualize_attention_curve.py
 python visualize_mv_fde.py
 ```
 
-## 📖 Citation
-
-If you use this code in your research, please cite our paper:
-
-```bibtex
-@article{adaptformer2024,
-  title={AdapTFormer: Adaptive Transformer for Long-term Time Series Forecasting},
-  author={Your Name and Co-authors},
-  journal={Conference/Journal Name},
-  year={2024}
-}
-```
 
 ## 🤝 Contributing
 
@@ -243,10 +231,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙋‍♂️ Contact
 
-- **Author**: [Your Name]
-- **Email**: your.email@institution.edu
-- **Institution**: Your Institution
-- **Project Link**: https://github.com/your-username/AdapTFormer
+- **Author**: [Liu Xuewen]
+- **Email**: liuxuewen516@163.com
 
 ## 🔗 Related Work
 
